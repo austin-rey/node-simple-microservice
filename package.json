@@ -1,0 +1,21 @@
+{
+  "name": "node-simple-microservice",
+  "version": "1.0.0",
+  "description": "This application is for learning purposes as it comes from a course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin-rey/node-simple-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin-rey/node-simple-microservice/issues"
+  },
+  "homepage": "https://github.com/austin-rey/node-simple-microservice#readme",
+  "dependencies": {}
+}
